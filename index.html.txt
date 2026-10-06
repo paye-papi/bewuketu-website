@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Wubit's Website</title>
+</head>
+
+<body>
+    <h1>ሰላም! እኔ ውቢት ነኝ 👋</h1>
+
+    <h2>ስለ እኔ</h2>
+    <p>Software Development መማር ጀምሬያለሁ።</p>
+</body>
+</html>
